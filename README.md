@@ -6,4 +6,4 @@ New dataframe with the PCA Model successfully retrieved with PC1, PC2 and PC3 va
 The total explained variance of three principal components comes to 0.8950.
 New dataframe with PCA data successfully created as per requirement.
 Best value of K using the PCA method also retrieved and created the dictionary with elbow curve and the elbow dataframe. 
-In my view, the intertia value decreased using K-Means so then the data points were less dispersed. As it was evident from the regular cluster the data points were much dispersed. After using K-means they became less dispersed.  
+In my view, the intertia decreased using K-Means so then the data points were less dispersed. As it was evident from the regular cluster the data points were much dispersed. After using K-means they became less dispersed.  
